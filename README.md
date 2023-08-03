@@ -24,9 +24,4 @@ Column_3 needs to end with a 1
 - Store your code on a GitHub account and share it with the email-address including your CV
 ## Results are found in the sql_test.sql folder
 
-## Resulting email 
-|---------------------------------------------------------------------------|
-| column_1 | column_2 | column_3 | join_id | email                          |
-|----------|----------|----------|---------|--------------------------------|                                                                   |
-|       10 |        5 |       101|       1 | 1867945546@theinformationlab.nl|
-|---------------------------------------------------------------------------|
+## Resulting email - 1867945546@theinformationlab.nl
